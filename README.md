@@ -26,6 +26,6 @@ Please find our work for Indian Council of Medical Research here: [ICMR](http://
 
 ### Support or Contact
 
-You can reach me at my [email](me@ipiyush.com), find me on  [linkedin](https://linkedin.com/in/poush), or feel free to create an issue of this repository (Yeah I try to follow github more than anything)
+You can reach me at my [email](mailto:me@ipiyush.com), find me on  [linkedin](https://linkedin.com/in/poush), or feel free to create an issue of this repository (Yeah I try to follow github more than anything)
 
-And find me at https://ipiyush.com. Peace!
+And find me at [website](https://ipiyush.com). Peace!
