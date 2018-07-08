@@ -1,26 +1,23 @@
-## Welcome to GitHub Pages
+## Hi there!
 
-You can use the [editor on GitHub](https://github.com/poush/bvptechies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a team from BVCOE, New Delhi who started by participated in the Smart India Hackathon 2017 where we won the second runner up prize. Also, we received a grant from the Indian Council of Medical Research, Govt. of India to complete the project which we started in the hackathon. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As of the time of writing this, we have completed the phase 1 of the project and our 6 month period will be over in few weeks. We would like to thank our mentors, Dr. Lalit Mohan Goyal (BVCOE), [Mandeep Singh](https://www.msingh.com), Dr. Meenakshi Sharma, Dr. Rajnikant Srivastva, Dr. Parkmya, and Dr. Enna Dogra for helping us out in every phase of the project.
 
-### Markdown
+### Our Active Team
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Below are our current active team 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+1. Piyush Agrawal
+2. Manan Arya
+3. Syed Saad
+4. Priyanka Poddar
 
-- Bulleted
-- List
+Hackathon Members includes 4 above and
 
-1. Numbered
-2. List
-
+5. Priyanka Agrawal
+6. Ujjwal Bhardwaj
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
