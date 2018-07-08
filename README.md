@@ -18,17 +18,14 @@ Hackathon Members includes 4 above and
 
 5. Priyanka Agrawal
 6. Ujjwal Bhardwaj
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Our Latest Work
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/poush/bvptechies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Please find our work for Indian Council of Medical Research here: [ICMR](http://merf.icmr.org.in). 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can reach me at my [email](me@ipiyush.com), find me on  [linkedin](https://linkedin.com/in/poush), or feel free to create an issue of this repository (Yeah I try to follow github more than anything)
+
+And find me at https://ipiyush.com. Peace!
